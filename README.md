@@ -100,6 +100,10 @@ One working system per day, every number from a committed benchmark. Index and r
 <a href="https://github.com/silvano-moraes-de-souza/mini-lakehouse"><img src="https://raw.githubusercontent.com/silvano-moraes-de-souza/mini-lakehouse/main/docs/assets/banner.svg" alt="Day 04 · Mini Lakehouse"></a>
 <br><b>Day 04 · Mini Lakehouse</b>: Bronze, silver and gold on Parquet and DuckDB. 1M orders reconciled to the cent; daily merge <b>77x</b> faster than a rebuild.
 </td>
+<td width="50%" valign="top">
+<a href="https://github.com/silvano-moraes-de-souza/sql-performance-lab"><img src="https://raw.githubusercontent.com/silvano-moraes-de-souza/sql-performance-lab/main/docs/assets/banner.svg" alt="Day 05 · SQL Performance Lab"></a>
+<br><b>Day 05 · SQL Performance Lab</b>: Eight slow PostgreSQL queries and their fixes on 1M orders, each returning the same rows. Keyset pagination <b>5,141x</b> faster than OFFSET.
+</td>
 </tr>
 </table>
 
