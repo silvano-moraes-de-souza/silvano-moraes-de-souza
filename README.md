@@ -19,7 +19,9 @@ I build data systems that put information in the hands of the people who decide.
   <img src="assets/progress.svg" alt="30 Days of Data & Software Engineering progress" width="49%">
 </p>
 
-## Featured projects
+## Projects
+
+Systems I built for work and products of my own.
 
 <table>
 <tr>
@@ -39,17 +41,7 @@ I build data systems that put information in the hands of the people who decide.
 </td>
 <td width="50%" valign="top">
 <a href="https://github.com/silvano-moraes-de-souza/jarvis-cv-saas"><img src="https://raw.githubusercontent.com/silvano-moraes-de-souza/jarvis-cv-saas/main/docs/banner.svg" alt="Jarvis CV"></a>
-<br><b>Jarvis CV</b>: SaaS with deterministic ATS scoring, a 5-model AI layer and Stripe subscriptions.
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://github.com/silvano-moraes-de-souza/ecommerce-data-pipeline"><img src="https://raw.githubusercontent.com/silvano-moraes-de-souza/ecommerce-data-pipeline/main/docs/assets/banner.svg" alt="E-commerce Data Pipeline"></a>
-<br><b>E-commerce Data Pipeline</b> (day 01): raw files to a PostgreSQL star schema, reconciled to the cent. COPY <b>2.7x</b> faster than INSERT.
-</td>
-<td width="50%" valign="top">
-<a href="https://github.com/silvano-moraes-de-souza/data-quality-engine"><img src="https://raw.githubusercontent.com/silvano-moraes-de-souza/data-quality-engine/main/docs/assets/banner.svg" alt="Data Quality Engine"></a>
-<br><b>Data Quality Engine</b> (day 02): YAML rules and a CI gate. Finds <b>6 of 6</b> injected problem types with the exact count.
+<br><b>Jarvis CV</b>: SaaS with deterministic ATS scoring on 6 dimensions, a 5-model AI layer and Stripe subscriptions.
 </td>
 </tr>
 <tr>
@@ -58,13 +50,58 @@ I build data systems that put information in the hands of the people who decide.
 <br><b>Video Transcriber</b>: API and worker split, Postgres as a queue. <a href="https://video-transcriber-gilt.vercel.app">Live demo</a>.
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/silvano-moraes-de-souza/n8n-whatsapp-waha"><img src="https://raw.githubusercontent.com/silvano-moraes-de-souza/n8n-whatsapp-waha/main/docs/banner.svg" alt="WhatsApp AI Agent with n8n"></a>
+<a href="https://github.com/silvano-moraes-de-souza/n8n-whatsapp-waha"><img src="https://raw.githubusercontent.com/silvano-moraes-de-souza/n8n-whatsapp-waha/main/docs/banner.svg" alt="WhatsApp AI Agent"></a>
 <br><b>WhatsApp AI Agent</b>: n8n + WAHA + LLM with Redis memory, the no-code sibling of Luminus.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/silvano-moraes-de-souza/powerbi-logistics-dax"><img src="https://raw.githubusercontent.com/silvano-moraes-de-souza/powerbi-logistics-dax/main/docs/banner.svg" alt="Logistics in Power BI"></a>
+<br><b>Logistics in Power BI</b>: DAX measures over 200 shipments and <b>R$ 7.39M</b> in revenue, carrier ranking and margins.
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/silvano-moraes-de-souza/portfolio"><img src="https://raw.githubusercontent.com/silvano-moraes-de-souza/portfolio/main/docs/banner.svg" alt="Portfolio site"></a>
+<br><b>Portfolio site</b>: React + Vite, projects mirrored from these READMEs. <a href="https://silvanomsouza.vercel.app/">silvanomsouza.vercel.app</a>.
 </td>
 </tr>
 </table>
 
-More in [30 Days of Data & Software Engineering](https://github.com/silvano-moraes-de-souza/30-days-data-eng), one working system per day, every number from a committed benchmark.
+## 30 Days of Data & Software Engineering
+
+One working system per day, every number from a committed benchmark. Index and results: <a href="https://github.com/silvano-moraes-de-souza/30-days-data-eng">30-days-data-eng</a>.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/silvano-moraes-de-souza/shopflow-datagen"><img src="https://raw.githubusercontent.com/silvano-moraes-de-souza/shopflow-datagen/main/docs/assets/banner.svg" alt="Day 00 · ShopFlow Datagen"></a>
+<br><b>Day 00 · ShopFlow Datagen</b>: Deterministic e-commerce data with counted dirty-data injection. <b>19.5M rows in 23.7 s</b>.
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/silvano-moraes-de-souza/de-project-template"><img src="https://raw.githubusercontent.com/silvano-moraes-de-souza/de-project-template/main/docs/assets/banner.svg" alt="Day 00 · Project Template"></a>
+<br><b>Day 00 · Project Template</b>: One command creates a repo with CI, Docker, a benchmark harness and an animated banner.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/silvano-moraes-de-souza/ecommerce-data-pipeline"><img src="https://raw.githubusercontent.com/silvano-moraes-de-souza/ecommerce-data-pipeline/main/docs/assets/banner.svg" alt="Day 01 · E-commerce Data Pipeline"></a>
+<br><b>Day 01 · E-commerce Data Pipeline</b>: Raw files to a PostgreSQL star schema, reconciled to the cent. COPY <b>2.7x</b> faster than INSERT.
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/silvano-moraes-de-souza/data-quality-engine"><img src="https://raw.githubusercontent.com/silvano-moraes-de-souza/data-quality-engine/main/docs/assets/banner.svg" alt="Day 02 · Data Quality Engine"></a>
+<br><b>Day 02 · Data Quality Engine</b>: YAML rules and a CI gate. Finds <b>6 of 6</b> injected problem types with the exact count.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/silvano-moraes-de-souza/postgres-cdc-pipeline"><img src="https://raw.githubusercontent.com/silvano-moraes-de-souza/postgres-cdc-pipeline/main/docs/assets/banner.svg" alt="Day 03 · Postgres CDC Pipeline"></a>
+<br><b>Day 03 · Postgres CDC Pipeline</b>: Watermark, trigger and WAL capture scored row by row. WAL: <b>0 rows wrong</b>; watermark: 11,893.
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/silvano-moraes-de-souza/mini-lakehouse"><img src="https://raw.githubusercontent.com/silvano-moraes-de-souza/mini-lakehouse/main/docs/assets/banner.svg" alt="Day 04 · Mini Lakehouse"></a>
+<br><b>Day 04 · Mini Lakehouse</b>: Bronze, silver and gold on Parquet and DuckDB. 1M orders reconciled to the cent; daily merge <b>77x</b> faster than a rebuild.
+</td>
+</tr>
+</table>
 
 ## Stack
 
