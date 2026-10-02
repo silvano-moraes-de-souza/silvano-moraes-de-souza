@@ -106,7 +106,10 @@ One working system per day, every number from a committed benchmark. Index and r
 <a href="https://github.com/silvano-moraes-de-souza/sql-performance-lab"><img src="https://raw.githubusercontent.com/silvano-moraes-de-souza/sql-performance-lab/main/docs/assets/banner.svg" alt="Day 05 · SQL Performance Lab"></a>
 <br><b>Day 05 · SQL Performance Lab</b>: Eight slow PostgreSQL queries and their fixes on 1M orders, each returning the same rows. Keyset pagination <b>5,141x</b> faster than OFFSET.
 </td>
-<td width="50%"></td>
+<td width="50%" valign="top">
+<a href="https://github.com/silvano-moraes-de-souza/sales-analytics-api"><img src="https://raw.githubusercontent.com/silvano-moraes-de-souza/sales-analytics-api/main/docs/assets/banner.svg" alt="Day 06 · Sales Analytics API"></a>
+<br><b>Day 06 · Sales Analytics API</b>: REST over the lakehouse gold layer with FastAPI and DuckDB. Keyset pagination, problem+json errors, ETag revalidation at <b>3,763 req/s</b>; revenue matches the source to the cent.
+</td>
 </tr>
 </table>
 
