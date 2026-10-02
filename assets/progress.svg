@@ -1,10 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="620" height="176" viewBox="0 0 620 176" role="img" aria-label="30 Days of Data and Software Engineering: 6 of 31 done">
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="176" viewBox="0 0 620 176" role="img" aria-label="30 Days of Data and Software Engineering: 7 of 31 done">
 <style>.sans{font-family:'Segoe UI',Roboto,Helvetica,Arial,sans-serif}.d{opacity:0;animation:in .4s ease-out forwards}@keyframes in{to{opacity:1}}.now{animation:in .4s ease-out forwards,p 1.6s ease-in-out 1s infinite}@keyframes p{50%{opacity:.35}}.fill{transform-box:fill-box;transform-origin:left;transform:scaleX(0);animation:g 1.8s ease-out .3s forwards}@keyframes g{to{transform:scaleX(1)}}</style>
 <rect width="620" height="176" rx="14" fill="#0d1117" stroke="#30363d"/>
 <text x="24" y="40" class="sans" font-size="18" font-weight="700" fill="#e6edf3">30 Days of Data &amp; Software Engineering</text>
-<text x="596" y="40" class="sans" font-size="18" font-weight="700" fill="#3fb950" text-anchor="end">6 / 31</text>
+<text x="596" y="40" class="sans" font-size="18" font-weight="700" fill="#3fb950" text-anchor="end">7 / 31</text>
 <rect x="24" y="58" width="572" height="10" rx="5" fill="#21262d"/>
-<rect class="fill" x="24" y="58" width="110.7" height="10" rx="5" fill="#3fb950"/>
+<rect class="fill" x="24" y="58" width="129.2" height="10" rx="5" fill="#3fb950"/>
 <rect class="d" style="animation-delay:0.00s" x="24.0" y="90" width="30" height="30" rx="6" fill="#3fb950"/>
 <text x="39.0" y="109.0" class="sans" font-size="10" text-anchor="middle" fill="#0d1117">00</text>
 <rect class="d" style="animation-delay:0.04s" x="60.1" y="90" width="30" height="30" rx="6" fill="#3fb950"/>
@@ -15,12 +15,12 @@
 <text x="147.4" y="109.0" class="sans" font-size="10" text-anchor="middle" fill="#0d1117">03</text>
 <rect class="d" style="animation-delay:0.16s" x="168.5" y="90" width="30" height="30" rx="6" fill="#3fb950"/>
 <text x="183.5" y="109.0" class="sans" font-size="10" text-anchor="middle" fill="#0d1117">04</text>
-<rect class="now" style="animation-delay:0.20s" x="204.7" y="90" width="30" height="30" rx="6" fill="#3fb950"/>
+<rect class="d" style="animation-delay:0.20s" x="204.7" y="90" width="30" height="30" rx="6" fill="#3fb950"/>
 <text x="219.7" y="109.0" class="sans" font-size="10" text-anchor="middle" fill="#0d1117">05</text>
-<rect class="d" style="animation-delay:0.24s" x="240.8" y="90" width="30" height="30" rx="6" fill="#d29922"/>
+<rect class="now" style="animation-delay:0.24s" x="240.8" y="90" width="30" height="30" rx="6" fill="#3fb950"/>
 <text x="255.8" y="109.0" class="sans" font-size="10" text-anchor="middle" fill="#0d1117">06</text>
-<rect class="d" style="animation-delay:0.28s" x="276.9" y="90" width="30" height="30" rx="6" fill="#21262d"/>
-<text x="291.9" y="109.0" class="sans" font-size="10" text-anchor="middle" fill="#6e7681">07</text>
+<rect class="d" style="animation-delay:0.28s" x="276.9" y="90" width="30" height="30" rx="6" fill="#d29922"/>
+<text x="291.9" y="109.0" class="sans" font-size="10" text-anchor="middle" fill="#0d1117">07</text>
 <rect class="d" style="animation-delay:0.32s" x="313.1" y="90" width="30" height="30" rx="6" fill="#21262d"/>
 <text x="328.1" y="109.0" class="sans" font-size="10" text-anchor="middle" fill="#6e7681">08</text>
 <rect class="d" style="animation-delay:0.36s" x="349.2" y="90" width="30" height="30" rx="6" fill="#21262d"/>
